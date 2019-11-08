@@ -1,0 +1,4 @@
+wait 100 ms
+"print('Hello world!')"
+wait 100 ms
+0D 0A
